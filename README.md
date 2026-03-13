@@ -1,7 +1,6 @@
 # Hi, I'm Kunal 👋
 
-I'm a **Master of Computing student at the
-National University of Singapore** with a strong background in **AI,
+I'm a **seasoned analytics and software professional** with a strong background in **AI,
 data science, and scalable software systems**. I enjoy building
 intelligent systems that combine **machine learning, analytics, and
 distributed software architecture** to solve real-world problems.

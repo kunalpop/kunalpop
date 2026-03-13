@@ -34,6 +34,7 @@ systems to generative-AI chat engines and industrial analytics solutions**.
 **Languages:** Python, TypeScript, JavaScript, Java, C++, R, Solidity\
 **AI/ML:** PyTorch, Pandas, Sklearn, TensorFlow, LangChain, LlamaIndex\
 **Frameworks:** FastAPI, Django, Node.js, React, Next.js\
+**Big Data:** Spark, Hadoop\
 **Infrastructure:** Docker, PostgreSQL, MongoDB, Redis, RabbitMQ
 
 ## 🌏 Connect With Me

@@ -32,7 +32,7 @@ systems to generative-AI chat engines and industrial analytics solutions**.
 ## 🛠 Tech Stack
 
 **Languages:** Python, TypeScript, JavaScript, Java, C++, R, Solidity\
-**AI/ML:** PyTorch, TensorFlow, LangChain, LlamaIndex\
+**AI/ML:** PyTorch, Pandas, Sklearn, TensorFlow, LangChain, LlamaIndex\
 **Frameworks:** FastAPI, Django, Node.js, React, Next.js\
 **Infrastructure:** Docker, PostgreSQL, MongoDB, Redis, RabbitMQ
 

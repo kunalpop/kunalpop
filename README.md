@@ -22,10 +22,10 @@ generative‑AI chat engines and analytics infrastructure**.
 
 ## 💼 Past Work Highlights
 
--   Built a **global forecasting platform at Amazon** improving planning
-    efficiency by **25×**.
+-   Built a **global forecasting platform at Amazon** streamlining,
+    standardizing, and scaling the the forecasting process.
 -   Developed **predictive analytics models for gas turbine maintenance
-    at GE**, saving clients **\$5M annually**.
+    at GE**.
 -   Designed **RAG‑based AI chat systems** for education and insurance
     applications.
 -   Created **recommender systems and analytics platforms** for
@@ -33,20 +33,20 @@ generative‑AI chat engines and analytics infrastructure**.
 
 ## 🛠 Tech Stack
 
-**Languages:** Python, TypeScript, JavaScript, Java, C++, R\
+**Languages:** Python, TypeScript, JavaScript, Java, C++, R, Solidity\
 **AI/ML:** PyTorch, TensorFlow, LangChain, LlamaIndex\
 **Frameworks:** FastAPI, Django, Node.js, React, Next.js\
 **Infrastructure:** Docker, PostgreSQL, MongoDB, Redis, RabbitMQ
 
 ## 📚 Currently Learning
 
--   Advanced NLP
+-   NLP and Analytics
+-   Blockchain and Distributed Ledger Technologies
 -   Large Language Model applications
 -   Big Data systems for AI
 
 ## 🌏 Connect With Me
 
--   LinkedIn: https://linkedin.com/in/sonikunal7
 -   Email: kunal.soni@u.nus.edu
 
 ------------------------------------------------------------------------

@@ -1,15 +1,14 @@
-# Hi, I'm Kunal 👋
+# Hi there, I'm Kunal 👋
 
-I'm a **seasoned analytics and software professional** with a strong background in **AI,
-data science, and scalable software systems**. I enjoy building
-intelligent systems that combine **machine learning, analytics, and
-distributed software architecture** to solve real-world problems.
+I'm a **seasoned analytics and software professional** with substantial experience 
+in **AI, data science, and scalable software systems**. I enjoy building intelligent 
+solutions that combine **machine learning, advanced analytics, and distributed 
+system architectures** to solve real-world problems.
 
-Previously, I worked across **AI, data science, and software development** 
-roles at organizations such as **Amazon, GE Global
-Research, TATA, and multiple technology startups**, where I designed systems
-ranging from **forecasting platforms and recommender systems to
-generative‑AI chat engines and industrial analytics**.
+Previously, I worked in **AI, data science, and software engineering roles** at 
+**Amazon, GE Global Research, TATA, and multiple technology startups**, where I 
+built systems ranging from **large-scale forecasting platforms and recommender 
+systems to generative-AI chat engines and industrial analytics solutions**.
 
 ## 🔬 Current Interests
 

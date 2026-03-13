@@ -37,13 +37,6 @@ generative‑AI chat engines and industrial analytics**.
 **Frameworks:** FastAPI, Django, Node.js, React, Next.js\
 **Infrastructure:** Docker, PostgreSQL, MongoDB, Redis, RabbitMQ
 
-## 📚 Currently Learning
-
--   NLP and Analytics
--   Blockchain and Distributed Ledger Technologies
--   Large Language Model applications
--   Big Data systems for AI
-
 ## 🌏 Connect With Me
 
 -   Email: kunal.soni@u.nus.edu

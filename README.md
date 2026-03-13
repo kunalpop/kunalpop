@@ -9,7 +9,7 @@ Previously, I worked across **AI, data science, and software development**
 roles at organizations such as **Amazon, GE Global
 Research, TATA, and multiple technology startups**, where I designed systems
 ranging from **forecasting platforms and recommender systems to
-generative‑AI chat engines and analytics infrastructure**.
+generative‑AI chat engines and industrial analytics**.
 
 ## 🔬 Current Interests
 
@@ -21,8 +21,8 @@ generative‑AI chat engines and analytics infrastructure**.
 
 ## 💼 Past Work Highlights
 
--   Built a **global forecasting platform at Amazon** streamlining,
-    standardizing, and scaling the the forecasting process.
+-   Built a **global automated forecasting platform at Amazon** streamlining,
+    standardizing, and scaling the the worldwide forecasting process.
 -   Developed **predictive analytics models for gas turbine maintenance
     at GE**.
 -   Designed **RAG‑based AI chat systems** for education and insurance

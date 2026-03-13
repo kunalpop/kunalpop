@@ -1,14 +1,14 @@
 # Hi, I'm Kunal 👋
 
-I'm a **Master of Computing (Information Systems) student at the
+I'm a **Master of Computing student at the
 National University of Singapore** with a strong background in **AI,
 data science, and scalable software systems**. I enjoy building
 intelligent systems that combine **machine learning, analytics, and
 distributed software architecture** to solve real-world problems.
 
-Previously, I worked across **AI, data science, and product
-engineering** roles at organizations such as **Amazon, GE Global
-Research, and multiple technology startups**, where I designed systems
+Previously, I worked across **AI, data science, and software development** 
+roles at organizations such as **Amazon, GE Global
+Research, TATA, and multiple technology startups**, where I designed systems
 ranging from **forecasting platforms and recommender systems to
 generative‑AI chat engines and analytics infrastructure**.
 

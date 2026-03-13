@@ -39,7 +39,7 @@ systems to generative-AI chat engines and industrial analytics solutions**.
 
 ## 🌏 Connect With Me
 
--   Email: kunal.soni@u.nus.edu
+-   Email: kunal.soni@u.nus.edu | kunalpop@gmail.com
 
 ------------------------------------------------------------------------
 

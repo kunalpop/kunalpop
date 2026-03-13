@@ -15,8 +15,8 @@ generative‑AI chat engines and industrial analytics**.
 
 -   Artificial Intelligence & Generative AI
 -   AI Agents and RAG Systems
--   Machine Learning & Data Science
--   Scalable Backend Systems
+-   Blockchain and Distributed Ledger Technologies
+-   Big Data Technologies
 -   Applied Analytics & Financial Technology
 
 ## 💼 Past Work Highlights

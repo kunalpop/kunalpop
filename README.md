@@ -21,9 +21,9 @@ systems to generative-AI chat engines and industrial analytics solutions**.
 ## 💼 Past Work Highlights
 
 -   Built a **global automated forecasting platform at Amazon** streamlining,
-    standardizing, and scaling the the worldwide forecasting process.
+    standardizing, and scaling the worldwide Customer Service supply chain forecasting process.
 -   Developed **predictive analytics models for gas turbine maintenance
-    at GE**.
+    at General Electric**.
 -   Designed **RAG‑based AI chat systems** for education and insurance
     applications.
 -   Created **recommender systems and analytics platforms** for
@@ -39,7 +39,7 @@ systems to generative-AI chat engines and industrial analytics solutions**.
 
 ## 🌏 Connect With Me
 
--   Email: kunal.soni@u.nus.edu | kunalpop@gmail.com
+-   Email: kunal.soni@u.nus.edu | kunalpop@hotmail.com | kunalpop@gmail.com
 
 ------------------------------------------------------------------------
 

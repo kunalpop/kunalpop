@@ -20,10 +20,10 @@ systems to generative-AI chat engines and industrial analytics solutions**.
 
 ## 💼 Past Work Highlights
 
--   Built a **global automated forecasting platform at Amazon** streamlining,
-    standardizing, and scaling the worldwide Customer Service supply chain forecasting process.
+-   Built the **worldwide automated forecasting platform at Amazon** streamlining,
+    standardizing, and scaling the worldwide Customer Service supply chain demand forecasting.
 -   Developed **predictive analytics models for gas turbine maintenance
-    at General Electric**.
+    at GE Global Research**.
 -   Designed **RAG‑based AI chat systems** for education and insurance
     applications.
 -   Created **recommender systems and analytics platforms** for
@@ -35,7 +35,7 @@ systems to generative-AI chat engines and industrial analytics solutions**.
 **AI/ML:** PyTorch, Pandas, Sklearn, TensorFlow, LangChain, LlamaIndex\
 **Frameworks:** FastAPI, Django, Node.js, React, Nest.js\
 **Big Data:** Spark, Hadoop\
-**Web:** CSS, HTML
+**Web:** CSS, HTML\
 **Infrastructure:** Docker, PostgreSQL, MongoDB, Redis, RabbitMQ
 
 ## 🌏 Connect With Me

@@ -29,14 +29,23 @@ systems to generative-AI chat engines and industrial analytics solutions**.
 -   Created **recommender systems and analytics platforms** for
     e‑commerce and fashion tech companies.
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-**Languages:** Python, TypeScript, JavaScript, Java, C++, R, Solidity\
-**AI/ML:** PyTorch, Pandas, Sklearn, TensorFlow, LangChain, LlamaIndex\
-**Frameworks:** FastAPI, Django, Node.js, React, Nest.js\
-**Big Data:** Spark, Hadoop\
-**Web:** CSS, HTML\
-**Infrastructure:** Docker, PostgreSQL, MongoDB, Redis, RabbitMQ
+Languages
+Python · TypeScript · JavaScript · Java · C++ · R · Solidity
+
+AI/ML
+PyTorch · Pandas · Scikit-learn · TensorFlow · LangChain · LlamaIndex
+
+Frameworks
+FastAPI · Django · Node.js · React · NestJS
+
+Data & Infrastructure
+Spark · Hadoop · Docker · PostgreSQL · MongoDB · Redis · RabbitMQ
+
+Web
+HTML · CSS
+
 
 ## 🌏 Connect With Me
 

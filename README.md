@@ -11,7 +11,6 @@ built systems ranging from **large-scale forecasting platforms and recommender
 systems to generative-AI chat engines and industrial analytics solutions**.
 
 ## 🔬 Current Interests
-
 - 🤖 Artificial Intelligence & Generative AI
 - 🧠 AI Agents and RAG Systems
 - ⛓️ Blockchain and Distributed Ledger Technologies
@@ -19,7 +18,6 @@ systems to generative-AI chat engines and industrial analytics solutions**.
 - 💹 Applied Analytics & Financial Technology
 
 ## 💼 Past Work Highlights
-
 -   Built the **worldwide automated forecasting platform at Amazon** streamlining,
     standardizing, and scaling the worldwide Customer Service supply chain demand forecasting.
 -   Developed **predictive analytics models for gas turbine maintenance
@@ -68,11 +66,10 @@ Web:
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 
-## 📬 Contact
-
-[![kunal.soni@u.nus.edu](https://img.shields.io/badge/kunal.soni@u.nus.edu-0033A0?style=flat&logo=gmail&logoColor=white)](mailto:kunal.soni@u.nus.edu)
-[![kunalpop@hotmail.com](https://img.shields.io/badge/kunalpop@hotmail.com-0078D4?style=flat&logo=microsoftoutlook&logoColor=white)](mailto:kunalpop@hotmail.com)
-[![kunalpop@gmail.com](https://img.shields.io/badge/kunalpop@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:kunalpop@gmail.com)
+## 📬 Contact  
+[![NUS Email](https://img.shields.io/badge/NUS-Email-003D7C?style=flat&logo=maildotru&logoColor=white)](mailto:kunal.soni@u.nus.edu)
+[![Gmail](https://img.shields.io/badge/Gmail-kunalpop%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:kunalpop@gmail.com)
+[![Outlook](https://img.shields.io/badge/Outlook-kunalpop%40hotmail.com-0078D4?style=flat&logo=microsoftoutlook&logoColor=white)](mailto:kunalpop@hotmail.com)
 
 ------------------------------------------------------------------------
 

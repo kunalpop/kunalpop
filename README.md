@@ -12,11 +12,11 @@ systems to generative-AI chat engines and industrial analytics solutions**.
 
 ## 🔬 Current Interests
 
--   Artificial Intelligence & Generative AI
--   AI Agents and RAG Systems
--   Blockchain and Distributed Ledger Technologies
--   Big Data Technologies
--   Applied Analytics & Financial Technology
+- 🤖 Artificial Intelligence & Generative AI
+- 🧠 AI Agents and RAG Systems
+- ⛓️ Blockchain and Distributed Ledger Technologies
+- 🗄️ Big Data Technologies
+- 💹 Applied Analytics & Financial Technology
 
 ## 💼 Past Work Highlights
 
@@ -68,9 +68,11 @@ Web:
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 
-## 🌏 Connect With Me
+## 📬 Contact
 
--   Email: kunal.soni@u.nus.edu | kunalpop@hotmail.com | kunalpop@gmail.com
+[![kunal.soni@u.nus.edu](https://img.shields.io/badge/kunal.soni@u.nus.edu-0033A0?style=flat&logo=gmail&logoColor=white)](mailto:kunal.soni@u.nus.edu)
+[![kunalpop@hotmail.com](https://img.shields.io/badge/kunalpop@hotmail.com-0078D4?style=flat&logo=microsoftoutlook&logoColor=white)](mailto:kunalpop@hotmail.com)
+[![kunalpop@gmail.com](https://img.shields.io/badge/kunalpop@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:kunalpop@gmail.com)
 
 ------------------------------------------------------------------------
 

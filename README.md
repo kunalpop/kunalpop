@@ -64,7 +64,7 @@ systems to generative-AI chat engines and industrial analytics solutions**.
 ## 📬 Contact  
 [![NUS Email](https://img.shields.io/badge/NUS_Email-kunal.soni@u.nus.edu-003D7C?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:kunal.soni@u.nus.edu)\
 [![Gmail](https://img.shields.io/badge/Gmail-kunalpop@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kunalpop@gmail.com)\
-[![Outlook](https://img.shields.io/badge/Outlook-kunalpop@hotmail.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:kunalpop@hotmail.com).\
+[![Outlook](https://img.shields.io/badge/Outlook-kunalpop@hotmail.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:kunalpop@hotmail.com)
 
 ------------------------------------------------------------------------
 

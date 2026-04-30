@@ -59,8 +59,7 @@ systems to generative-AI chat engines and industrial analytics solutions**.
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)\
 **Web:** 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)\
-
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 ## 📬 Contact  
 [![NUS Email](https://img.shields.io/badge/NUS-Email-003D7C?style=flat&logo=maildotru&logoColor=white)](mailto:kunal.soni@u.nus.edu)

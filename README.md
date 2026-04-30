@@ -62,10 +62,9 @@ systems to generative-AI chat engines and industrial analytics solutions**.
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 ## 📬 Contact  
-[![NUS Email](https://img.shields.io/badge/NUS_Email-kunal.soni@u.nus.edu-003D7C?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:kunal.soni@u.nus.edu)\
-[![Gmail](https://img.shields.io/badge/Gmail-kunalpop@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kunalpop@gmail.com)\
-[![Outlook](https://img.shields.io/badge/Outlook-kunalpop@hotmail.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:kunalpop@hotmail.com)
-
+[![NUS Email](https://img.shields.io/badge/NUS_Email-kunal.soni%40u.nus.edu-003D7C?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:kunal.soni@u.nus.edu)\
+[![Gmail](https://img.shields.io/badge/Gmail-kunalpop%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kunalpop@gmail.com)\
+[![Outlook](https://img.shields.io/badge/Outlook-kunalpop%40hotmail.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:kunalpop@hotmail.com)
 ------------------------------------------------------------------------
 
 ⭐ I use GitHub to experiment with **AI systems, data science projects, and scalable backend architectures.**

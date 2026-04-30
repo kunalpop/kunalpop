@@ -11,11 +11,11 @@ built systems ranging from **large-scale forecasting platforms and recommender
 systems to generative-AI chat engines and industrial analytics solutions**.
 
 ## 🔬 Current Interests
-- 🤖 Artificial Intelligence & Generative AI
-- 🧠 AI Agents and RAG Systems
-- ⛓️ Blockchain and Distributed Ledger Technologies
-- 🗄️ Big Data Technologies
-- 💹 Applied Analytics & Financial Technology
+-    🧬 Artificial Intelligence & Generative AI
+-    🤖 AI Agents and RAG Systems
+-    🔗 Blockchain and Distributed Ledger Technologies
+-    📊 Big Data Technologies
+-    💳 Applied Analytics & Financial Technology
 
 ## 💼 Past Work Highlights
 -   Built the **worldwide automated forecasting platform at Amazon** streamlining,

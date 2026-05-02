@@ -1,6 +1,6 @@
 # Hi there, I'm Kunal 👋
 
-I'm a **seasoned analytics and software professional** with substantial experience 
+I'm a **seasoned analytics and software professional** with strong background 
 in **AI, data science, and scalable software systems**. I enjoy building applications 
 that combine **machine learning, analytics, blockchain, and distributed systems** 
 to solve real-world problems.

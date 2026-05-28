@@ -42,6 +42,7 @@ systems to generative-AI chat engines and industrial analytics solutions**.
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![AutoGen](https://img.shields.io/badge/AutoGen-412991?style=flat&logo=microsoft&logoColor=white)
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6E4FF6?style=flat&logoColor=white)
 -    **Frameworks:** 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)

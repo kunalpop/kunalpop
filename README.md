@@ -68,4 +68,4 @@ systems to generative-AI chat engines and industrial analytics solutions**.
 -    [![Gmail](https://img.shields.io/badge/Gmail-kunalpop%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kunalpop@gmail.com)
 ------------------------------------------------------------------------
 
-⭐ I use GitHub to experiment with **AI systems, data science projects, and scalable backend architectures.**
+⭐ I use GitHub to experiment with **AI systems, decentralized applications, and full-stack web applications.**

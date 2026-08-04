@@ -12,7 +12,7 @@ systems to generative-AI chat engines and industrial analytics solutions**.
 
 ## 🔬 Current Interests
 -    🧬 Artificial Intelligence & Generative AI
--    🤖 AI Agents and RAG Systems
+-    🤖 AI Agents, RAG Systems, and Knowledge Graphs
 -    🔗 Blockchain and Distributed Ledger Technologies
 -    📊 Big Data Technologies
 -    💳 Applied Analytics & Financial Technology
